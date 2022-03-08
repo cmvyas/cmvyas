@@ -38,11 +38,11 @@
 <div>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmvyas&show_icons=true&locale=en&layout=compact" alt="cmvyas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmvyas&show_icons=true&locale=en&layout=compact" alt="cmvyas"  width="300"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=cmvyas&show_icons=true&locale=en" alt="cmvyas" /></p>
+<p><img  width="300" align="left" src="https://github-readme-stats.vercel.app/api?username=cmvyas&show_icons=true&locale=en" alt="cmvyas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cmvyas&" alt="cmvyas" /></p>
+<p><img  width="300" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cmvyas&" alt="cmvyas" /></p>
 
 <h3 align="left">Feel free to connect with me ✌🏻</h3>
 <p align="left">
