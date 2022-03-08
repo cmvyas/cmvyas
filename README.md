@@ -18,11 +18,11 @@
   
 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <br>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"width="80" height="80"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"width="80" height="80"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin"width="80" height="80"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"width="80" height="80"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -38,11 +38,11 @@
 <div>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmvyas&show_icons=true&locale=en&layout=compact" alt="cmvyas"  width="300"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmvyas&show_icons=true&locale=en&layout=compact" alt="cmvyas"  width="400"/></p>
 
-<p><img  width="300" align="left" src="https://github-readme-stats.vercel.app/api?username=cmvyas&show_icons=true&locale=en" alt="cmvyas" /></p>
+<p><img  width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=cmvyas&show_icons=true&locale=en" alt="cmvyas" /></p>
 
-<p><img  width="300" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cmvyas&" alt="cmvyas" /></p>
+<p><img  width="400" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cmvyas&" alt="cmvyas" /></p>
 
 <h3 align="left">Feel free to connect with me ✌🏻</h3>
 <p align="left">
