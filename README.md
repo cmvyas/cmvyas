@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋🏻, I'm Chandramani Vyas</h1>
-<h3 align="left"><li>🚀 Frontend Developer | 💻 Solutions Engineer at Whatfix
-🎓 B.Tech in Computer Science from Lovely Professional University</li> 
+<h3 align="left"><li>🚀 Frontend Developer</li>  <li>💻 Solutions Engineer at Whatfix</li> 
+<li>🎓 B.Tech in Computer Science from Lovely Professional University</li>
 
 <p>I'm passionate about web development and love diving into the latest tech trends. My expertise includes React Native, ReactJs, JavaScript, and CSS. I thrive on experimenting with new technologies and contributing to open-source projects. Hackathons are my playground, and I'm always eager to tackle new challenges.</p>
   
