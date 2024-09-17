@@ -1,5 +1,8 @@
 <h1 align="left">Hi 👋🏻, I'm Chandramani Vyas</h1>
-<h3 align="left">I am  a third-year BTech CSE student <ul> <li> In love with web development </li> <li> exploring android develoment <li> participating in hackathons is my hobby</li> <li> contributing to open source is my passion </li> <li>Self Development is my Primary Goal</li>
+<h3 align="left"><li>🚀 Frontend Developer | 💻 Solutions Engineer at Whatfix
+🎓 B.Tech in Computer Science from Lovely Professional University</li> 
+
+<p>I'm passionate about web development and love diving into the latest tech trends. My expertise includes React Native, ReactJs, JavaScript, and CSS. I thrive on experimenting with new technologies and contributing to open-source projects. Hackathons are my playground, and I'm always eager to tackle new challenges.</p>
   
   </h3>
   <h3> What else I Love 🤔 ?
